@@ -1,0 +1,12 @@
+[
+  { "ja-jp" : "りんご", "en-us", "ringo" },
+  { "ja-jp" : "みかん", "en-us", "mikan" },
+  { "ja-jp" : "柿", "en-us", "kaki" },
+  { "ja-jp" : "とうもろこし", "en-us", "toumoro" },
+  { "ja-jp" : "いちご", "en-us", "ichigo" },
+  { "ja-jp" : "いちじく", "en-us", "ichigiku" },
+  { "ja-jp" : "あけび", "en-us", "akebi" },
+  { "ja-jp" : "なし", "en-us", "nashi" },
+  { "ja-jp" : "さつまいも", "en-us", "satsuma" },
+  { "ja-jp" : "なす", "en-us", "nasu" }
+]
